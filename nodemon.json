@@ -1,0 +1,8 @@
+{
+  "env": {
+    "ATLAS_PW": "adminPwd",
+    "JWT_KEY" : "protectedKey",
+    "AUTH_TOKEN" : "Login",
+    "ACCOUNT_SID" : "FWf2484257ae67d9122bd4ff0aab5622c7"
+  }
+}
